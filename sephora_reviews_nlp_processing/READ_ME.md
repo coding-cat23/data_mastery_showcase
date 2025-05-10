@@ -35,8 +35,25 @@ This Jupyter Notebook explores a comprehensive dataset of Sephora beauty product
 ## 📂 Dataset Information
 - **Product Info Dataset:**
   - Contains details about products such as name, brand, price, rating, and size.
+  - CSV Included in this repository
 - **Product Reviews Dataset:**
   - Includes user reviews with attributes like rating, helpfulness, skin type, and review text.
+  - ## 📁 Data Files
+
+Due to GitHub’s 25MB file size limit, large CSV files are not included in this repository.
+
+To use the project:
+
+1. Download the data manually from the datasource link below
+2. Save the following files into the folder where you will run the script:
+
+   - `reviews_0-250.csv`
+   - `reviews_250-500.csv`
+   - `reviews_500-750.csv`
+   - `reviews_750-1250.csv`
+   - `reviews_1250-end.csv`
+
+3. Then run the notebook or script as normal.
 
 **Dataset Source:** [Sephora Products and Skincare Reviews on Kaggle](https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews)  
 **Collected:** March 2023  
