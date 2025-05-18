@@ -32,6 +32,12 @@ This Jupyter Notebook explores a comprehensive dataset of Sephora beauty product
 
 ---
 
+## Power BI report
+The analysis has been visualised in Microsoft Power BI. Die to file limits on Github, the Power BI file can be downloaded on the link below
+[Download Power BI report pbix file](https://drive.google.com/file/d/1VSxUZi5JvdIhHA8LiBG-Zvvx-N2r9VM8/view?usp=sharing)
+
+---
+
 ## 📂 Dataset Information
 - **Product Info Dataset:**
   - Contains details about products such as name, brand, price, rating, and size.
