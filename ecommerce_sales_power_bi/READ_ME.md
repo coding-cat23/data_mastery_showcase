@@ -6,7 +6,7 @@ This repository contains a Power BI project focused on analyzing sales performan
 
 ## Dataset
 
-The dataset used for this project was sourced from [Kaggle](YOUR_KAGGLE_DATASET_LINK_HERE). It includes the following fields:
+The dataset used for this project was sourced from [Kaggle](https://www.kaggle.com/datasets). It includes the following fields:
 
 * `InvoiceNo`
 * `StockCode`
@@ -67,7 +67,7 @@ This page focuses on understanding customer behavior and their impact on sales.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+    git clone [https://github.com/coding-cat23/data_mastery_showcase/edit/main/ecommerce_sales_power_bi.git](https://github.com/coding-cat23/data_mastery_showcase/edit/main/ecommerce_sales_power_bi.git)
     ```
 2.  **Open the Power BI file:** Navigate to the cloned directory and open the `.pbix` file using Power BI Desktop.
 3.  **Explore the report:** Interact with the filters and visuals to gain insights into the sales data.
@@ -76,4 +76,4 @@ This page focuses on understanding customer behavior and their impact on sales.
 
 ## Contact
 
-For any questions or feedback, please reach out to [YOUR_EMAIL@example.com](mailto:YOUR_EMAIL@example.com).
+For any questions or feedback, please reach out to [devilliers.j21@gmail.com](mailto:devilliers.j21@gmail.com).
